@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225100013
+# Name: GOWTHAM M
+
 
 
 # AIM:
@@ -49,6 +49,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1102" height="872" alt="image" src="https://github.com/user-attachments/assets/9670c4e6-fab3-4d99-bc8c-42c3a58e163f" />
 
 
 
